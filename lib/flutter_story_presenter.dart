@@ -13,4 +13,5 @@ export 'src/story_presenter/story_view.dart';
 export 'src/story_presenter/text_story_view.dart';
 export 'src/story_presenter/video_story_view.dart';
 export 'src/story_presenter/web_story_view.dart';
+export 'src/story_presenter/flutter_story_widgets.dart';
 export 'src/utils/story_utils.dart';
